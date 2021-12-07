@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAppVTB</string>
+
+    <string name="one">1 стр</string>
+    <string name="two">2 стр</string>
+    <string name="three">3 стр</string>
+    <string name="four">4 стр</string>
+
+
+</resources>
